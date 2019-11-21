@@ -8,7 +8,6 @@ import jdk.incubator.http.HttpClient;
 import jdk.incubator.http.HttpRequest;
 import jdk.incubator.http.HttpResponse;
 import jdk.incubator.http.HttpResponse.BodyHandler;
-import lombok.extern.slf4j.Slf4j;
 
 public class CustomHttpClient {
 

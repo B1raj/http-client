@@ -7,7 +7,7 @@ import org.junit.jupiter.api.Test;
 
 import jdk.incubator.http.HttpResponse;
 
-public class CustomeHttpClientTest {
+public class CustomHttpClientTest {
 
 	@Test
 	public void testDoGet() {
